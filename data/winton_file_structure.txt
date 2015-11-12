@@ -1,0 +1,16 @@
+
+
+File Structure 
+
+col			content
+1			ID 
+2-26		Features 
+27 			Return_Minus_2
+28 			Return_Minus_1
+29-147 		Return_Minutes 2-120 
+148-207 	Return_Minutes 121-180 (Missing from Test Set) - TARGET
+208 		Return_Plus_1  (Missing from Test Set) - TARGET
+209 		Return_Plus_2  (Missing from Test Set) - TARGET 
+210			Weight_Intraday 
+211			Weight_Daily 
+
